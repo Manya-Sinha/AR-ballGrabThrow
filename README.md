@@ -1,5 +1,8 @@
 # AR-ballGrabThrow
 An Android AR app made in Unity 6 and AR Foundation. Grab a ball with your finger, flick to throw it, and watch it bounce off your real floor.
+
+**[Download the latest release (APK and project files)](../../releases/latest)**
+
 # AR Ball Throw
 
 An Android augmented reality app built in Unity 6 (6000.0.85f2) with AR Foundation and ARCore. A ball appears in front of the camera. Touch it, drag it, and flick to throw it. It bounces off the real floor.
